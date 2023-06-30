@@ -1,3 +1,5 @@
 # Konversi-Daya-materi-10-TKJ-fo
 
-This repo only contains the code of a Power Conversion problem solution that I learned at school. 
+kode ini untuk memudahkan menghitung konversi daya yang saya dapat dari materi sekolah saya
+
+maaf kalau kode nya terlihat berantakan saya masih pemula hehe
